@@ -1,2 +1,2 @@
 # Data-Science-Portfolio
-Collection of my data science, process automation and other work
+Reference repository of my data science, process automation and other work in Python.
