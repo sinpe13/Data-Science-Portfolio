@@ -10,15 +10,19 @@ The PCA-research_paper folder contains some samples from the research paper I co
 
   - **pl_dist_plot.py**: plotting the profit/loss disctribution of the PCA index vs the names in each PCA runs. ![alt text](https://github.com/sinpe13/Data-Science-Portfolio/blob/master/PCA-research_paper/pl_dist_plot.png)
 
-### [Compliance Automation](https://github.com/sinpe13/Data-Science-Portfolio/tree/master/Compliance-Automation)
+### [Sales Opportunity Closing Predictions using Machine Learning Techniques](https://github.com/sinpe13/Data-Science-Portfolio/tree/master/Deal-Closing-Prediction-w-ML)
 
-Python application to automate internal compliance process. Over 200 clients are sending backcompliance reports in a predefined excel format that used to be processed manually by a 3-person team for 2 weeks. The application imports all xls files from the source folder and outputs the processed results into an output spreadsheet. This **reduced manual processing time from 240 manhours to minutes of computing time**.
+This was project to predict which deals will close for the given year based on Salesforce data attributes of the opportunities. The complexity came from the poor data quality of the source data which requried significant data engineering to have meaningful input. We ended up deriving attributes based on activity and milestone history which proved to be the only reliable data source. We ran different machine learning methods and imporved forecasting on the annual sales of the company.
 
 ### [Who is the GOAT (Greatest Of All Time) in men's tennis?](https://github.com/sinpe13/ATP-dataset)
 
 Fun experiment to calculate ELO score - used mainly in chess to compare players from different eras based on the strenght of their opponents played - to make a quantitative argument of who is the greatest mens tennis player all time (GOAT). Jupyter notebook with the results is available [here](https://github.com/sinpe13/ATP-dataset/blob/master/ATP%20dataset.ipynb).
 
 **Spoiler alert:** the first two players on the list are still going strong...
+
+### [Compliance Automation](https://github.com/sinpe13/Data-Science-Portfolio/tree/master/Compliance-Automation)
+
+Python application to automate internal compliance process. Over 200 clients are sending backcompliance reports in a predefined excel format that used to be processed manually by a 3-person team for 2 weeks. The application imports all xls files from the source folder and outputs the processed results into an output spreadsheet. This **reduced manual processing time from 240 manhours to minutes of computing time**.
 
 ### [Salesforce Data Extraction and Manipulation](https://github.com/sinpe13/Data-Science-Portfolio/tree/master/Salesforce-Data-Manipulation)
 
