@@ -19,3 +19,9 @@ Python application to automate internal compliance process. Over 200 clients are
 Fun experiment to calculate ELO score - used mainly in chess to compare players from different eras based on the strenght of their opponents played - to make a quantitative argument of who is the greatest mens tennis player all time (GOAT). Jupyter notebook with the results is available [here](https://github.com/sinpe13/ATP-dataset/blob/master/ATP%20dataset.ipynb).
 
 **Spoiler alert:** the first two players on the list are still going strong...
+
+### [Salesforce Data Extraction and Manipulation](https://github.com/sinpe13/Data-Science-Portfolio/tree/master/Salesforce-Data-Manipulation)
+
+The objection is to automate a laborous manual process to extract Salesforce data one spreadsheet per customer so that account managers can provide informations per client and automatically import them back to Salesforce once the results are sent back. The application can directly import data from Salesforce via API and also read from xls.
+
+With the above application weeks of manual work taking place semi-annually has been automated.
