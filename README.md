@@ -12,6 +12,6 @@ The PCA-research_paper folder contains some samples from the research paper I co
 
 ### Compliance-Automation
 
-Python application to automate internal compliance process. Over 200 clients are sending backcompliance reports in a predefined excel format that used to be processed manually by a 3-person team for 2 weeks. The application imports all xls files from the source folder and outputs the processed results into an output spreadsheet. This reduced manual processing time from 240 manhours to minutes of computing time.
+Python application to automate internal compliance process. Over 200 clients are sending backcompliance reports in a predefined excel format that used to be processed manually by a 3-person team for 2 weeks. The application imports all xls files from the source folder and outputs the processed results into an output spreadsheet. This **reduced manual processing time from 240 manhours to minutes of computing time**.
 
 
