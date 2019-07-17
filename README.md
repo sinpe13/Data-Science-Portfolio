@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Reference repository of my data science, process automation and other work in Python.
+Sample repository of my data science, process automation and other work in Python.
 
 ### [PCA Research Paper](https://github.com/sinpe13/Data-Science-Portfolio/tree/master/PCA-research_paper)
 The PCA-research_paper folder contains some samples from the research paper I co-authored titled "A Spectral Decomposition of the Credit Default Swap Indices" (submitted to Physica A on July 13 2019, available: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3419188)
