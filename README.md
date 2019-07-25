@@ -12,9 +12,9 @@ We utilized PCA to make significant imporvements to hedging credit portfolios ve
 
   - **pl_dist_plot.py**: plotting the profit/loss disctribution of the PCA index vs the names in each PCA runs. Main Python libraries used: Matplotlib, Seaborn ![alt text](https://github.com/sinpe13/Data-Science-Portfolio/blob/master/PCA-research_paper/pl_dist_plot.png)
 
-### [Sales Opportunity Closing Predictions using Machine Learning Techniques](https://github.com/sinpe13/Data-Science-Portfolio/tree/master/Deal-Closing-Prediction-w-ML)
+### Sales Opportunity Closing Predictions using Machine Learning Techniques
 
-This was project to predict which deals will close for the given year based on Salesforce data attributes of the opportunities. The complexity came from the poor data quality of the source data which requried significant data engineering. We ended up deriving attributes based on activity and milestone history which proved to be the only reliable data source. We ran different machine learning methods and imporved forecasting on the annual sales of the company.
+This was project to predict which deals will close for the given year based on Salesforce data attributes of the opportunities. The complexity came from the poor data quality of the source data which requried significant data engineering. We ended up deriving attributes based on activity and milestone history which proved to be the only reliable data source. We ran different machine learning methods and imporved forecasting on the annual sales of the company. (This code is company confidential.)
 
 ### [Who is the GOAT (Greatest Of All Time) in men's tennis?](https://github.com/sinpe13/ATP-dataset)
 
@@ -22,12 +22,12 @@ Fun experiment to calculate [ELO score](https://en.wikipedia.org/wiki/Elo_rating
 
 **Spoiler alert:** the first two players on the list are still going strong...
 
-### [Compliance Automation](https://github.com/sinpe13/Data-Science-Portfolio/tree/master/Compliance-Automation)
+### Compliance Automation
 
-Python application to automate internal compliance process. Over 200 clients are sending back compliance reports in a predefined excel format that used to be processed manually by a 3-person team for 2 weeks. The application imports all xls files from the source folder and outputs the processed results into an output spreadsheet. This **reduced manual processing time from 240 manhours to minutes of computing time**.
+Python application to automate internal compliance process. Over 200 clients are sending back compliance reports in a predefined excel format that used to be processed manually by a 3-person team for 2 weeks. The application imports all xls files from the source folder and outputs the processed results into an output spreadsheet. This **reduced manual processing time from 240 manhours to minutes of computing time**. (This code is company confidential.)
 
-### [Salesforce Data Extraction and Manipulation](https://github.com/sinpe13/Data-Science-Portfolio/tree/master/Salesforce-Data-Manipulation)
+### Salesforce Data Extraction and Manipulation
 
 The objective here was to automate a laborous manual process to extract Salesforce data into different spreadsheets per customer so that account managers can provide information per client; then automatically import the feedbak to Salesforce once the results are sent back. The application can directly import data from Salesforce via API or also read from xls.
 
-With the above application weeks of manual work taking place semi-annually has been automated.
+With the above application weeks of manual work taking place semi-annually has been automated. (This code is company confidential.)
